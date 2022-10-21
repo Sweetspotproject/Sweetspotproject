@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sweetspotproject ... my true name is enrique gutierres
-- 👀 I’m interested in ... Web development
+- 👀 I’m interested in ... Web development, cybersecurity and more
 - 🌱 I’m currently learning ... javascript 
 - 💞️ I’m looking to collaborate on ... Some project on web development
 - 📫 How to reach me ... You can contact me by my email:
